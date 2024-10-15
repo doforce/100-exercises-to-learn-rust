@@ -114,10 +114,6 @@ name = "arrays"
 version = "0.1.0"
 
 [[package]]
-name = "as_cast"
-version = "0.1.0"
-
-[[package]]
 name = "assoc_vs_generic"
 version = "0.1.0"
 
@@ -1446,10 +1442,6 @@ version = "0.1.0"
 dependencies = [
  "tokio",
 ]
-
-[[package]]
-name = "overflow"
-version = "0.1.0"
 
 [[package]]
 name = "overloading"
